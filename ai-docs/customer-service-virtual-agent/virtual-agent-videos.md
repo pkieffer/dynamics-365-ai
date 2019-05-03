@@ -22,7 +22,7 @@ Demo of an embedded video:
 
 ## Tony's video
 
-Get it [here](https://microsoft.sharepoint.com/teams/CCIBotDesignerTeam/Shared%20Documents/General/Demo%20Assets/Airlift_2019-04/CCIVirtualAgentDeepDive_2019-04.mp4).
+Download Tony's video from SharePoint [here](https://microsoft.sharepoint.com/teams/CCIBotDesignerTeam/Shared%20Documents/General/Demo%20Assets/Airlift_2019-04/CCIVirtualAgentDeepDive_2019-04.mp4).
 
 ## Create, Test, and Deploy a Virtual Agent
 
